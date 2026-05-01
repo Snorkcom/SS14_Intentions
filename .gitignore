@@ -1,0 +1,25 @@
+bin/
+obj/
+TestResults/
+
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+*.log
+
+.dotnet/
+.nuget/
+
+Thumbs.db
+Desktop.ini
+
+*.tmp
+*.temp
+*.bak
+~$*
+
+Техническая документация системы Намерения.md
+Документация системы Намерения.md
